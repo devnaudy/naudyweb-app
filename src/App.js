@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
-         <a href='https://naudyweb.com'>Hola NaudyWeb</a>  
+         <a className="App-link-2" 
+         href='https://naudyweb.com'>Hola NaudyWeb</a>  
         
         <a
           className="App-link"
